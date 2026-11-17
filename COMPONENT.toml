@@ -3,7 +3,7 @@ name = "SigmaOS-pppoe"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "pppoe component"
+description = "PPPoE"
 upstream = []
 
 [contract]
